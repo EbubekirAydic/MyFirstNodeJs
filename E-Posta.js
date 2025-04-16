@@ -1,5 +1,5 @@
 // documents/github/myfirstnodejs
-// nodemon html.js
+// nodemon E-Posta.js
 
 var nodemailer = require('nodemailer');
 
